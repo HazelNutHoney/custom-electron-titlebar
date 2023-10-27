@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "productName": "example",
+  "version": "1.0.0",
+  "description": "An Example for custom-electronjs-titlebar",
+  "main": "src/index.js",
+  "scripts": {  },
+  "keywords": [  ],
+  "author": "HazelNutHoney <hazelnutzhoney@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.4.2",
+    "@electron-forge/maker-deb": "^6.4.2",
+    "@electron-forge/maker-rpm": "^6.4.2",
+    "@electron-forge/maker-squirrel": "^6.4.2",
+    "@electron-forge/maker-zip": "^6.4.2",
+    "@electron-forge/plugin-auto-unpack-natives": "^6.4.2",
+    "electron": "27.0.2"
+  }
+}
