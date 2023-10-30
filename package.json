@@ -1,6 +1,6 @@
 {
   "name": "custom-electronjs-titlebar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a library for electron.js to allow you to add custom titlebars!",
   "types": "./index.d.ts",
   "main": "./index.ts",
